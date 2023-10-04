@@ -29,6 +29,12 @@ All the PDFs used by the evaluator are public. The Scientific Committee on Consu
 
 ##### Results Obtained 
 
+|  | AICIS| SCCS | **All** |
+| :---------------: | :---------------: | :---------------: | :---------------: |
+| Precision| 0.70| 0.76 | **0.74** |  
+| Recall| 0.61 | 0.82 | **0.72**| 
+| Accuracy | 0.72 | 0.68 | **0.75** | 
+| F-Score| 0.66 | 0.79 | **0.73** | 
 
 
 ### Finance Use Case
